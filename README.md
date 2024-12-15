@@ -1,3 +1,4 @@
+ O algoritmo foi capaz de detectar múltiplos objetos em uma cena, demonstrando sua capacidade de lidar com ambientes urbanos, como carros, pessoas, semáforos e bicicletas, identificando diversos objetos simultaneamente. Embora a qualidade do vídeo estivesse pixelada e a gravação acelerada, o algoritmo conseguiu realizar as detecções e reconhecimento com sucesso. Ele exibe um quadrado ao redor do objeto detectado, acompanhado pelo nome do objeto e pela confiabilidade da detecção. Algumas detecções apresentaram confiabilidade abaixo de 50%, especialmente para objetos mais distantes, enquanto objetos mais próximos foram detectados com maior precisão. Apesar das limitações de qualidade e velocidade da gravação, fiquei satisfeito com os resultados obtidos.
 
 ![image](https://github.com/user-attachments/assets/70c7b1c9-862a-4cff-a0f1-bf1ec3602cde)
 ![Captura de tela 2024-12-14 210935](https://github.com/user-attachments/assets/d7655058-9f1a-4df8-8db9-032c9e3146ff)
